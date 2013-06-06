@@ -1,0 +1,18 @@
+{
+  "name": "mocha",
+  "version": "0.0.0",
+  "description": "no",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "zhou",
+  "license": "BSD",
+  "dependencies": {
+    "should": "*"
+  }
+}
