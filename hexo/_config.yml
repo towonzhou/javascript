@@ -3,10 +3,10 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Hexo
+title: Towonzhou's Blog
 subtitle:
 description:
-author: John Doe
+author: Towonzhou
 email:
 language:
 
@@ -49,7 +49,7 @@ tag: 2
 ## Hexo uses Connect as a server
 ## You can customize the logger format as defined in
 ## http://www.senchalabs.org/connect/logger.html
-port: 4000
+port: 9999
 logger: false
 logger_format:
 

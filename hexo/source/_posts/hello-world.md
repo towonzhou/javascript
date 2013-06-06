@@ -3,4 +3,6 @@ date: 2013-06-06 10:49:23
 tags:
 ---
 
-Welcome to [Hexo](http://zespia.tw/hexo)! This is your very first post. Check [documentation](http://zespia.tw/hexo/docs) to learn how to use.
+  The first blog for automake.  
+  autoconf根据一个宏生成configure, automake根据另外一个宏生成Makefile.in  
+  configure根据Makefile.in生成Makefile.
